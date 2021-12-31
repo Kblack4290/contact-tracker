@@ -27,7 +27,7 @@ NavBar.prototype = {
 }
 
 NavBar.defaultProps = {
-    title: 'Contact Tracter',
+    title: 'Contact Tracker',
     icon: 'fas fa-id-card-alt'
 
 }
